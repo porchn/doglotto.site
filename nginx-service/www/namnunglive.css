@@ -1,0 +1,140 @@
+.u-section-1 {
+  background-image: url("images/ScreenShot2564-05-03at21.45.00.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 149px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 144px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 3rem;
+  background-image: none;
+  margin: 52px auto;
+  padding: 8px 33px;
+}
+
+.u-section-2 .u-icon-1 {
+  color: rgb(255, 255, 255) !important;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 84px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 1.875rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 144px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 20px 0;
+}.u-section-4 .u-sheet-1 {
+  min-height: 404px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 60px 0;
+}.u-section-5 .u-sheet-1 {
+  min-height: 404px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 60px 0 0;
+}
+
+.u-section-5 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 3rem;
+  background-image: none;
+  margin: 30px auto 60px;
+  padding: 8px 33px;
+}
+
+.u-section-5 .u-icon-1 {
+  color: rgb(255, 255, 255) !important;
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-btn-1 {
+    font-size: 1.875rem;
+  }
+}.u-section-6 .u-sheet-1 {
+  min-height: 624px;
+}
+
+.u-section-6 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 400px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 350px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 220px;
+  }
+}.u-section-7 .u-sheet-1 {
+  min-height: 144px;
+}
+
+.u-section-7 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 3rem;
+  background-image: none;
+  margin: 52px auto;
+  padding: 8px 33px;
+}
+
+.u-section-7 .u-icon-1 {
+  color: rgb(255, 255, 255) !important;
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-btn-1 {
+    font-size: 1.875rem;
+  }
+}
