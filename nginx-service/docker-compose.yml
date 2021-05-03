@@ -10,6 +10,7 @@ services:
       - ./conf:/etc/nginx/conf.d:Z
       - ./caches:/data-cache:Z
       - ./www:/var/www/html/
+      - ./logs:/var/log/nginx/log
     environment:
       - TZ=Asia/Bangkok
       - NGINX_PORT=80
